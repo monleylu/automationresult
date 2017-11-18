@@ -1,0 +1,1 @@
+{"startTime":1510280858025,"endTime":1510280858027,"platform":2,"platformName":"无线","type":1,"typeName":"UI自动化","data":[{"data":{"dataOne":{"name":"aaa","age":1}},"dataType":"testUnit"},{"data":[{"name":"insurancename0","price":0},{"name":"insurancename1","price":1}],"dataType":"insurance"}],"success":true,"msg":"123"}
